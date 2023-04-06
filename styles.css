@@ -87,6 +87,7 @@ h3 {
 
 /* Set styles for #add-comment */
 #add-comment {
+    border-radius: 10px;
     width: 150px;
     height: 40px;
     border: none;
