@@ -1,6 +1,7 @@
 <h1>Phase 1 FInal project</h1>
 <h2>Introduction</h2>
-<p>Author: Mbiki Waweru
+<p>
+    Author: Mbiki Waweru
     License: MIT
     Program name: Photo generator.
 </p>
